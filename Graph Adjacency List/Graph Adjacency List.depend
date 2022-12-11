@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669711328 source:c:\users\assassin\desktop\c&c++_hub\graph data structure\graph adjacency list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

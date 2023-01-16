@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672684123 source:c:\users\assassin\desktop\c&c++_hub\graph data structure\cycle detection in undirected graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673885730 source:c:\users\assassin\desktop\c&c++_hub\graph data structure\bellman ford algorithm (spg-detects negative edge cycle)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+

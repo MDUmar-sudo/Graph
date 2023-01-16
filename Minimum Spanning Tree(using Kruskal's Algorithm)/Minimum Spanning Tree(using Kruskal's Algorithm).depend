@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672656446 source:c:\users\assassin\desktop\c&c++_hub\graph data structure\minimum spanning tree(using kruskal's algorithm)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
